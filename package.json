@@ -1,0 +1,14 @@
+{
+  "name": "kaify-nodejs-project1",
+  "version": "1.0.0",
+  "description": "This is my tutorial nodejs project",
+  "main": "1-intro.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mohammad Kaify Tauheed",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
